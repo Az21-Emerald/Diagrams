@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T05:50:20.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="P9gNwPGDCvfpvkxFcsf-" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T05:55:33.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="8Eo1bqPBBmVxlXFPuLuo" version="18.0.2" type="github">
   <diagram id="v3i3qALOHbMgqXMzzNs6" name="Series Resonant Converter">
-    <mxGraphModel dx="539" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jhtj1zKKDDRjlm15n6en-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Jhtj1zKKDDRjlm15n6en-4" target="Jhtj1zKKDDRjlm15n6en-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="440" />
+              <mxPoint x="680" y="440" />
               <mxPoint x="160" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Jhtj1zKKDDRjlm15n6en-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="550" y="330" width="100" height="20" as="geometry" />
+          <mxGeometry x="630" y="330" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jhtj1zKKDDRjlm15n6en-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="60" height="60" as="geometry" />
@@ -43,16 +43,16 @@
           <mxGeometry x="420" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jhtj1zKKDDRjlm15n6en-15" value="$$L_{r}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="270" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jhtj1zKKDDRjlm15n6en-16" value="$$C_{r}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="415" y="170" width="110" height="30" as="geometry" />
+          <mxGeometry x="390" y="250" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jhtj1zKKDDRjlm15n6en-17" value="$$R_{AC}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="585" y="325" width="130" height="30" as="geometry" />
+        <mxCell id="Jhtj1zKKDDRjlm15n6en-17" value="$$R_{AC}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="325" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jhtj1zKKDDRjlm15n6en-18" value="$$V_{\text{in}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="15" y="325" width="160" height="30" as="geometry" />
+        <mxCell id="Jhtj1zKKDDRjlm15n6en-18" value="$$V_{\text{in}}$$" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;horizontal=1;spacingBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="325" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jhtj1zKKDDRjlm15n6en-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;labelBackgroundColor=none;opacity=40;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
