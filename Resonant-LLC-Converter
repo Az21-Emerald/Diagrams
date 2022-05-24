@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T07:21:30.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="O_ASaSCnFHZsN_zTdTRg" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T07:44:02.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="ZOmhivqRgAjPWCxu0lSw" version="18.0.2" type="github" pages="2">
   <diagram id="v3i3qALOHbMgqXMzzNs6" name="Series Resonant Converter">
     <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -60,7 +60,7 @@
             <mxPoint x="540" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jhtj1zKKDDRjlm15n6en-19" value="$$V_{\text{out}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="Jhtj1zKKDDRjlm15n6en-19" value="$$V_{\text{AC}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="325" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
