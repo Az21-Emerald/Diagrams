@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T07:03:31.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="klO0Huvfl-hNel9YSlc3" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T07:21:30.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="O_ASaSCnFHZsN_zTdTRg" version="18.0.2" type="github" pages="2">
   <diagram id="v3i3qALOHbMgqXMzzNs6" name="Series Resonant Converter">
     <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -156,20 +156,20 @@
             <mxPoint x="710" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvJcSHEI7gbbewy-hGkG-32" value="$$I_{o}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="100" height="30" as="geometry" />
+        <mxCell id="EvJcSHEI7gbbewy-hGkG-32" value="$$I_{DC}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g8ICfCludGRmevNAIK6O-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;labelBackgroundColor=none;opacity=40;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="510" as="sourcePoint" />
-            <mxPoint x="700" y="170" as="targetPoint" />
+            <mxPoint x="710" y="510" as="sourcePoint" />
+            <mxPoint x="710" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8ICfCludGRmevNAIK6O-2" value="$$E_{o}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="325" width="110" height="30" as="geometry" />
+        <mxCell id="g8ICfCludGRmevNAIK6O-2" value="$$V_{DC}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="325" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g8ICfCludGRmevNAIK6O-5" value="$$R_{o}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="325" width="110" height="30" as="geometry" />
+        <mxCell id="g8ICfCludGRmevNAIK6O-5" value="$$R_{DC}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="325" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
